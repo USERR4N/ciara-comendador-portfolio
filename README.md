@@ -26,6 +26,16 @@ https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
 - Tech Stack: BPMN, Lucidchart
 - GitHub: (link)
 
+## Certifications & Achievements
+
+- **Best Overall Project – 2nd Place**  
+  CIIT Hackathon Jam 2026  
+  Developed a cybersecurity-focused solution under the theme "Mask"
+
+- **1st Place – Sales Blitz (Food Category)**  
+  CIIT Emerging Startups Convention (CESCON)  
+  Led end-to-end business execution and sales strategy
+
 ## Skills
 - BPMN & Process Mapping
 - Business Analysis
