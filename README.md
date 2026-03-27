@@ -1,15 +1,15 @@
 # Ciara Frances P. Comendador - Portfolio
 
-## 👩‍💻 About Me
+## About Me
 Information Systems student and Business Documentation Specialist with experience in process mapping, BPMN, and project management. Passionate about improving business processes and building efficient systems.
 
-## 🎨 Portfolio UI
+## Portfolio UI
 https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
 
-## 📄 CV
+## CV
 (Add your CV link here after uploading)
 
-## 🚀 Projects
+## Projects
 
 ### 1. ISO Certification Documentation Project
 - Description: Led documentation and BPMN creation for ISO compliance.
@@ -26,7 +26,7 @@ https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
 - Tech Stack: BPMN, Lucidchart
 - GitHub: (link)
 
-## 🛠 Skills
+## Skills
 - BPMN & Process Mapping
 - Business Analysis
 - Project Management
