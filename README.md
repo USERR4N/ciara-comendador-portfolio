@@ -56,17 +56,25 @@ https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
 ### 9. Ciel d'Or – Hackathon 2024
 - Description: Designed a UI/UX prototype for a French-Filipino restaurant booking platform, focusing on seamless reservations and elegant user experience.
 - Tech Stack: Figma (UI/UX Design, Prototyping)
-- Figma Prototype: 
+- Figma Prototype: https://www.figma.com/proto/KCqvNMoVLsVIGrBbfuAS2x/Ciel-d-Or-Website?node-id=0-1&t=N4iN9ex7B1cTgl34-1
 
 ### 10. CIIT Fluxx – Shark Tank Convention 2025
 - Description: Designed a Netflix-inspired UI/UX platform for showcasing student portfolios, allowing students, professors, and professionals to explore creative work in a structured and engaging interface.
 - Tech Stack: Figma (UI/UX Design, Prototyping)
-- Figma Prototype: 
+- Figma Prototype: https://www.figma.com/proto/C1p6E8flI5lILE6Ci5DC3k/Finals-Fluxx?node-id=0-1&t=2lW8KQTxd4axctf0-1
 
 ### 11. Lila Tinig
 - Description: Designed a UI/UX prototype for an advocacy-driven storytelling platform, enabling users to share and amplify voices through digital narratives.
 - Tech Stack: Figma (UI/UX Design, Prototyping)
-- Figma Prototype: 
+- Figma Prototype: https://www.figma.com/proto/dR1iLCNEcZhGePMDSSAcoJ/Lila-Tinig?node-id=0-1&t=BPEzonfk6uixcCQd-1
+
+### 12. YelloX Business Process Mapping
+- Description: Conducted process analysis and created BPMN workflows (Order-to-Cash, Warehousing, Quote-to-Cash) for real businesses.
+- Tech Stack: BPMN, Lucidchart, Process Analysis
+
+### 13. Enjoy Your Coffee (EYC Café Case Study)
+- Description: Analyzed business operations, identified pain points, and proposed process improvements through system design and documentation.
+- Tech Stack: Business Analysis, Financial Analysis, Documentation
 
 ## Certifications & Achievements
 
