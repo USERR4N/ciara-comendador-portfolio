@@ -86,9 +86,14 @@ https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
   CIIT Emerging Startups Convention (CESCON)  
   Led end-to-end business execution and sales strategy
 
+- **Bronze Awardee**  
+  StartUp Quezon City Student Competition 2026  
+  Led the overall project planning and direction of Traffic Violation Settlement System
+
 ## Skills
 - BPMN & Process Mapping
 - Business Analysis
 - Project Management
 - Power BI
 - Microsoft Excel
+- Website Designing
