@@ -90,6 +90,20 @@ https://www.figma.com/proto/N6TFDHwueaaWvIL9JBLajC/My-Portfolio-UI
   StartUp Quezon City Student Competition 2026  
   Led the overall project planning and direction of Traffic Violation Settlement System
 
+- **Lean Six Sigma White Belt Certification**  
+  The Council for Six Sigma Certification (CSSC) 
+  Issued Jul 2026
+  Credential ID Ts1zpm1Xq0
+
+- **Google Agile Essentials**  
+  Google 
+  Issued Aug 2026
+  Credential ID 2X4QQ6GCNMYL
+
+- **AI Engineering Workshop for Software Development**  
+  CIIT College of Innovation and Integrated Technology
+  Issued Jun 2026
+
 ## Skills
 - BPMN & Process Mapping
 - Business Analysis
